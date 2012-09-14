@@ -10,5 +10,5 @@ setup(
         'bin/pro'
     ],
     license='LGPL',
-    long_description=open('README').read(),
+    long_description=open('README.markdown').read(),
 )
