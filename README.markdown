@@ -8,7 +8,7 @@ there are probably better options for running your processes in production.
 Installation
 ------------
 
-  pip install pro
+    pip install pro
 
 
 Usage
