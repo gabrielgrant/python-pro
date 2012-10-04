@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='pro',
-    version='0.1.1',
+    version='0.1.2',
     author='Gabriel Grant',
     author_email='g@briel.ca',
     py_modules=['pro'],
